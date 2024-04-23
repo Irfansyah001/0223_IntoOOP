@@ -7,4 +7,6 @@ private:
 	float panjang, lebar;
 public:
 	float Luas;
+	void input() { // methode input persegi panjang
+	}
 };
