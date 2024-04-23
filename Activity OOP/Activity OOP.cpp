@@ -30,6 +30,6 @@ public:
 	}
 
 	void output() {
-
+		cout << "Kode MK: " << kodeMK << endl;
 	}
 };
